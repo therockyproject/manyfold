@@ -4,7 +4,7 @@ A single-file landing page for an AI chat interface that lets people talk to man
 
 # What's included
 manyfold-landing.html: the whole page (HTML, CSS and JS in one file, no build step)
-#Features
+# Features
 Live chat demo. Type a message and get a streamed reply. Switching models in the glass bar adds a "context kept" note to the thread.
 Liquid glass. The model switcher and a draggable orb use WebGL glass refraction. If the library fails to load, the page falls back to a CSS frosted-glass style.
 Motion. Staggered headline entrance, drifting background glow, scrolling model marquee, scroll-triggered feature animations, count-up stats and an animated FAQ.
